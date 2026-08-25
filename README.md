@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/sagarji1/DSA/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarji1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarji1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sagarji1/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarji1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarji1/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/sagarji1/DSA/tree/master/0189-rotate-array) |
 | [1260-shift-2d-grid](https://github.com/sagarji1/DSA/tree/master/1260-shift-2d-grid) |
